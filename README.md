@@ -1,37 +1,31 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Wallace</h2>
+## 🎯 Player Stats
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+%22Crafting+Code%2C+Building+Dreams%22;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
-</p>
-
-
-
-<img align="right" alt="Coding" width="300" src="https://github.com/yoacinsoy/yoacinsoy/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
-
-- 👨‍💻 Building Android apps that help people every day.
-- 📖 Focused on learning and improving
-- 🛠️ Enjoy working on a variety of projects
-- 👥 Open to collaboration
-- 🔧 Offering services for Android Apps
+* **Nome no Jogo**: My Life be Like
+* **Classe**: Trainee
+* **Level**: 23
+* **HP**: 150/150
+* **MP**: 250/250
+* **XP**: [██████████] 85%
 
 
-<div align="start">
 
-  ![](https://komarev.com/ghpvc/?username=yoacinsoy&style=flat&color=brightgreen)
+## 🎮 Sobre o Player
 
-</div>
+```diff
++ [NEW ACHIEVEMENT UNLOCKED: "Fundecc Trainee"]
++ [NEW ACHIEVEMENT UNLOCKED: "Mestre em Laravel"]
 
-<div align="start">
+```
+
+
+<div align="center">
   
-<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoacinsoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoacinsoy/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yoacinsoy) 
-<a href="https://t.me/yoacinsoy" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/+5535992428787/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-gon%C3%A7alves-sandes-171b7223a/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0066?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayke.gy/)
+[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaykesandes)
+[![Codewars](https://img.shields.io/badge/Codewars-B22222?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/kaykesandes) 
+
 </div>
-
-
-
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoacinsoy&theme=github_dark)
@@ -57,10 +51,12 @@
 My true work is in private repos.</span>  
 </p>
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/yoacinsoy/proxymap) in [yoacinsoy/proxymap](https://github.com/yoacinsoy/proxymap)
-2. 🚀 Published release [1.0.5](https://github.com/yoacinsoy/portfolio) in [yoacinsoy/portfolio](https://github.com/yoacinsoy/portfolio)
-3. 🚀 Published release [1.0.4](https://github.com/orgs/XpLoIT-Team) in [yoacinsoy/XpLoIT-Team](https://github.com/XpLoIT-Team)
-<!--END_SECTION:activity-->
+## 📜 Log de Batalha (Experiência)
+
+```diff
++ 2026 - Presente: Estágiario na Fundecc 🟢
++ 2026 - Presente: Estudante de Desenvolvimento de Sistemas
++ 2025 - Concluído: Formado em Técnico em Informática
+
+```
